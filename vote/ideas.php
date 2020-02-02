@@ -48,14 +48,14 @@ function createCookie(name, value, days) {
 }
 
 var firebaseConfig = {
-    apiKey: "AIzaSyDs0Ta7z2trxgw9seJdLtafxxZh-4TIk0c",
-    authDomain: "hackintra-68883.firebaseapp.com",
-    databaseURL: "https://hackintra-68883.firebaseio.com",
-    projectId: "hackintra-68883",
-    storageBucket: "hackintra-68883.appspot.com",
-    messagingSenderId: "270370944465",
-    appId: "1:270370944465:web:f52919e08de25d19af5cf0",
-    measurementId: "G-RZ934R2VLK"
+  apiKey: "API_KEY",
+    authDomain: "URL",
+    databaseURL: "https://hackintra-idea.firebaseio.com",
+    projectId: "hackintra-idea",
+    storageBucket: "hackintra-idea.appspot.com",
+    messagingSenderId: "386702843769",
+    appId: "APP_ID",
+    measurementId: "G-ID"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
