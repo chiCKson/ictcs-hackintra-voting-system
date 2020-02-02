@@ -1,0 +1,1 @@
+[25-Aug-2019 05:03:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home/ictcslk/public_html/hackintra/vote/con/con.php on line 8
